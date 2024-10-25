@@ -1,0 +1,65 @@
+{
+    
+        "usage_details": "Usage Details",
+  "current_usage": "Current Usage",
+   "enable_auto_switch_based_on_price": "Enable auto switch based on price",
+    "choose_language": "Choose language",
+  "analytics": "Analytics",
+  "add_appliance": "Add Appliance",
+  "appliance_type": "Appliance Type",
+  "brand": "Brand",
+  "power_rating": "Power Rating (W)",
+  "add": "Add",
+  "electric_power_consumption": "Electric Power Consumption",
+  "solar_power_produced": "Solar Power Produced",
+  "solar_power_used": "Solar Power Used",
+  "electric_power_used": "Electric Power Used",
+      
+   
+   
+        "select_appliance": "Select Appliance",
+        "total_power_consumption": "Total Power Consumption",
+        "electric_power_usage": "Electric Power Usage for {appliance} (kWh)",
+        "solar_power_usage": "Solar Power Usage for {appliance} (kWh)",
+        "1_day": "1 Day",
+        "1_week": "1 Week",
+        "1_month": "1 Month",
+      
+   
+        "automation_control": "Automation Control",
+        "custom_automation": "Custom Automation",
+        "create_custom_automation": "Create Custom Automation",
+        "select_appliances": "Select Appliances",
+        "custom_automation_name": "Custom Automation Name",
+        "cancel": "Cancel",
+        "create": "Create",
+        "current_electric_price": "Current Electric Price",
+        "enable_auto_switch": "Enable Auto Switch Based on Price",
+        "select_automation": "Select Automation",
+        "appliance": "Appliance",
+        "current_power_source": "Current Power Source",
+        "electric_solar": "Electric/Solar",
+        "solar": "Solar",
+        "electric": "Electric",
+  
+        "energy_dashboard": "Energy Dashboard",
+  "real_time_price_monitoring": "Real-Time Price Monitoring",
+  "estimated_power_saved": "Estimated Power Saved",
+  "total_solar_production": "Total Solar Production",
+  "power_consumption": "Power Consumption",
+  "current_weather": "Current Weather",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "precipitation": "Precipitation",
+  "wind_speed": "Wind Speed",
+  "visibility": "Visibility",
+  "energy_savings_tips": "Energy Savings Tips",
+  "turn_off_lights": "Turn off lights when not in use",
+  "use_energy_efficient_appliances": "Use energy-efficient appliances",
+  "leverage_natural_lighting": "Leverage natural lighting",
+  "average_price": "Average Price",
+  "highest_price": "Highest Price",
+  "lowest_price": "Lowest Price"
+
+  }
+  

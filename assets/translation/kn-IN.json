@@ -1,0 +1,63 @@
+{
+   
+        "usage_details": "ಬಳಕೆಯ ವಿವರಗಳು",
+        "current_usage": "ಪ್ರಸ್ತುತ ಬಳಕೆ",
+        "add_appliance": "ಸಾಧನವನ್ನು ಸೇರಿಸಿ",
+        "appliance_type": "ಸಾಧನದ ಪ್ರಕಾರ",
+        "brand": "ಬ್ರ್ಯಾಂಡ್",
+        "power_rating": "ಪವರ್ ರೇಟಿಂಗ್ (W)",
+        "add": "ಸೇರಿಸಿ",
+        "electric_power_consumption": "ವಿದ್ಯುತ್ ಶಕ್ತಿ ಬಳಕೆ",
+        "solar_power_produced": "ಸೌರ ಶಕ್ತಿ ಉತ್ಪಾದನೆ",
+        "solar_power_used": "ಸೌರ ಶಕ್ತಿ ಬಳಕೆ",
+        "electric_power_used": "ವಿದ್ಯುತ್ ಶಕ್ತಿ ಬಳಕೆ",
+      
+
+        "analytics": "ವಿಶ್ಲೇಷಣೆ",
+  "select_appliance": "ಸಾಧನವನ್ನು ಆರಿಸಿ",
+  "total_power_consumption": "ಒಟ್ಟು ವಿದ್ಯುತ್ ಬಳಕೆ",
+  "electric_power_usage": "{appliance} ಗೆ ವಿದ್ಯುತ್ ಬಳಕೆ (kWh)",
+  "solar_power_usage": "{appliance} ಗೆ ಸೌರ ಶಕ್ತಿ ಬಳಕೆ (kWh)",
+  "1_day": "1 ದಿನ",
+  "1_week": "1 ವಾರ",
+  "1_month": "1 ತಿಂಗಳು",
+   
+        "automation_control": "ಸ್ವಯಂಚಾಲಿತ ನಿಯಂತ್ರಣ",
+        "custom_automation": "ಕಸ್ಟಮ್ ಸ್ವಯಂಚಾಲನೆ",
+        "create_custom_automation": "ಕಸ್ಟಮ್ ಸ್ವಯಂಚಾಲನೆ ರಚಿಸಿ",
+        "select_appliances": "ಸಾಧನಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+        "custom_automation_name": "ಕಸ್ಟಮ್ ಸ್ವಯಂಚಾಲನೆ ಹೆಸರು",
+        "cancel": "ರದ್ದುಮಾಡಿ",
+        "create": "ರಚಿಸಿ",
+        "current_electric_price": "ಪ್ರಸ್ತುತ ವಿದ್ಯುತ್ ಬೆಲೆ",
+        "enable_auto_switch": "ಬೆಲೆ ಆಧಾರಿತ ಸ್ವಯಂಚಾಲಿತ ಸ್ವಿಚ್ ಸಕ್ರಿಯಗೊಳಿಸಿ",
+        "select_automation": "ಸ್ವಯಂಚಾಲಿತ ಆಯ್ಕೆಮಾಡಿ",
+        "appliance": "ಸಾಧನ",
+        "current_power_source": "ಪ್ರಸ್ತುತ ವಿದ್ಯುತ್ ಮೂಲ",
+        "electric_solar": "ವಿದ್ಯುತ್/ಸೌರ",
+        "solar": "ಸೌರ",
+        "electric": "ವಿದ್ಯುತ್",
+      
+
+        "energy_dashboard": "ಶಕ್ತಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+        "real_time_price_monitoring": "ನಿಜ ಕಾಲದ ಬೆಲೆ ಪರಿಶೀಲನೆ",
+        "estimated_power_saved": "ಆಕಳಿಸಿದ ಶಕ್ತಿ ಉಳಿತಾಯ",
+        "total_solar_production": "ಒಟ್ಟು ಸೌರ ಉತ್ಪಾದನೆ",
+        "power_consumption": "ವಿದ್ಯುತ್ ಬಳಕೆ",
+        "current_weather": "ಪ್ರಸ್ತುತ ಹವಾಮಾನ",
+        "temperature": "ತಾಪಮಾನ",
+        "humidity": "ಆರ್ದ್ರತೆ",
+        "precipitation": "ಮಳೆ",
+        "wind_speed": "ಗಾಳಿಯ ವೇಗ",
+        "visibility": "ದೃಶ್ಯತೆ",
+        "energy_savings_tips": "ಶಕ್ತಿ ಉಳಿತಾಯ ಸಲಹೆಗಳು",
+        "turn_off_lights": "ಬಳಸದಾಗ ಬೆಳಕುಗಳನ್ನು ಆಫ್ ಮಾಡಿ",
+        "use_energy_efficient_appliances": "ಶಕ್ತಿ ಉಳಿತಾಯ ಸಾಧನಗಳನ್ನು ಬಳಸಿರಿ",
+        "leverage_natural_lighting": "ಸ್ವಾಭಾವಿಕ ಬೆಳಕನ್ನು ಬಳಸಿಕೊಳ್ಳಿ",
+        "average_price": "ಸರಾಸರಿ ಬೆಲೆ",
+        "highest_price": "ಅತ್ಯಂತ ಹೆಚ್ಚು ಬೆಲೆ",
+        "lowest_price": "ಕಡಿಮೆ ಬೆಲೆ"
+     
+    
+  }
+  

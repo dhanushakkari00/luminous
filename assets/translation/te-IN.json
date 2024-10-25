@@ -1,0 +1,69 @@
+{
+  
+        "usage_details": "వాడుక వివరాలు",
+  "current_usage": "ప్రస్తుత వాడుక",
+  "analytics": "విశ్లేషణ",
+  "add_appliance": "పరికరం జోడించండి",
+  "appliance_type": "పరికరం రకం",
+  "brand": "బ్రాండ్",
+  "power_rating": "పవర్ రేటింగ్ (W)",
+  "cancel": "రద్దు చేయండి",
+  "add": "జోడించండి",
+  "electric_power_consumption": "ఎలక్ట్రిక్ పవర్ వినియోగం",
+  "solar_power_produced": "సౌరశక్తి ఉత్పత్తి చేయబడింది",
+  "appliance": "పరికరం",
+  "solar_power_used": "సౌరశక్తి వినియోగం",
+  "electric_power_used": "ఎలక్ట్రిక్ పవర్ వినియోగం",
+      
+
+   
+        "analytics": "విశ్లేషణ",
+        "select_appliance": "పరికరం ఎంచుకోండి",
+        "total_power_consumption": "మొత్తం విద్యుత్ వినియోగం",
+        "electric_power_usage": "{appliance} కోసం విద్యుత్ వినియోగం (kWh)",
+        "solar_power_usage": "{appliance} కోసం సౌర శక్తి వినియోగం (kWh)",
+        "1_day": "1 రోజు",
+        "1_week": "1 వారం",
+        "1_month": "1 నెల",
+         "enable_auto_switch_based_on_price": "ధర ఆధారంగా ఆటో స్విచ్ ప్రారంభించండి",
+    "choose_language": "భాషను ఎంచుకోండి",
+      
+ 
+        "automation_control": "ఆటోమేషన్ నియంత్రణ",
+        "custom_automation": "కస్టమ్ ఆటోమేషన్",
+        "create_custom_automation": "కస్టమ్ ఆటోమేషన్ సృష్టించండి",
+        "select_appliances": "పరికరాలను ఎంచుకోండి",
+        "custom_automation_name": "కస్టమ్ ఆటోమేషన్ పేరు",
+        "cancel": "రద్దు చేయండి",
+        "create": "సృష్టించండి",
+        "current_electric_price": "ప్రస్తుతం ఉన్న విద్యుత్ ధర",
+        "enable_auto_switch": "ధర ఆధారంగా ఆటోమేటిక్ స్విచ్ ని ప్రారంభించండి",
+        "select_automation": "ఆటోమేషన్ ఎంచుకోండి",
+        "appliance": "పరికరం",
+        "current_power_source": "ప్రస్తుత శక్తి మూలం",
+        "electric_solar": "ఎలక్ట్రిక్/సౌర",
+        "solar": "సౌర శక్తి",
+        "electric": "ఎలక్ట్రిక్",
+  
+        "energy_dashboard": "ఎనర్జీ డాష్‌బోర్డ్",
+        "real_time_price_monitoring": "రియల్ టైమ్ ధర పరిశీలన",
+        "estimated_power_saved": "అంచనా వాడుక కరెంటు",
+        "total_solar_production": "మొత్తం సౌర ఉత్పత్తి",
+        "power_consumption": "విద్యుత్ వినియోగం",
+        "current_weather": "ప్రస్తుత వాతావరణం",
+        "temperature": "ఉష్ణోగ్రత",
+        "humidity": "ఆర్ద్రత",
+        "precipitation": "వర్షం",
+        "wind_speed": "గాలి వేగం",
+        "visibility": "కనిపించే దూరం",
+        "energy_savings_tips": "ఎనర్జీ సేవింగ్ సూచనలు",
+        "turn_off_lights": "వాడకంలో లేనప్పుడు లైట్లు ఆఫ్ చేయండి",
+        "use_energy_efficient_appliances": "ఎనర్జీ సేవింగ్ పరికరాలు వాడండి",
+        "leverage_natural_lighting": "నేచురల్ లైటింగ్ వాడండి",
+        "average_price": "సగటు ధర",
+        "highest_price": "అతిపెద్ద ధర",
+        "lowest_price": "తక్కువ ధర"
+     
+    }
+  
+  

@@ -1,0 +1,68 @@
+{
+   
+        "usage_details": "ব্যবহারের বিবরণ",
+  "current_usage": "বর্তমান ব্যবহার",
+  "analytics": "বিশ্লেষণ",
+  "add_appliance": "যন্ত্রপাতি যোগ করুন",
+  "appliance_type": "যন্ত্রপাতির ধরন",
+  "brand": "ব্র্যান্ড",
+  "power_rating": "পাওয়ার রেটিং (W)",
+  "cancel": "বাতিল করুন",
+  "add": "যোগ করুন",
+  "electric_power_consumption": "বৈদ্যুতিক শক্তি ব্যবহৃত",
+  "solar_power_produced": "সৌর শক্তি উৎপাদিত",
+  "appliance": "যন্ত্রপাতি",
+  "solar_power_used": "সৌর শক্তি ব্যবহার",
+  "electric_power_used": "বৈদ্যুতিক শক্তি ব্যবহৃত",
+      
+   
+        "analytics": "বিশ্লেষণ",
+  "select_appliance": "যন্ত্রপাতি নির্বাচন করুন",
+  "total_power_consumption": "মোট বিদ্যুৎ খরচ",
+  "electric_power_usage": "{appliance} এর জন্য বৈদ্যুতিক শক্তি ব্যবহার (kWh)",
+  "solar_power_usage": "{appliance} এর জন্য সৌর শক্তি ব্যবহার (kWh)",
+  "1_day": "1 দিন",
+  "1_week": "1 সপ্তাহ",
+  "1_month": "1 মাস",
+      
+    
+        "automation_control": "স্বয়ংক্রিয় নিয়ন্ত্রণ",
+  "custom_automation": "কাস্টম স্বয়ংক্রিয়",
+  "create_custom_automation": "কাস্টম স্বয়ংক্রিয় তৈরি করুন",
+  "select_appliances": "যন্ত্রপাতি নির্বাচন করুন",
+  "custom_automation_name": "কাস্টম স্বয়ংক্রিয় নাম",
+  "cancel": "বাতিল করুন",
+  "create": "তৈরি করুন",
+  "current_electric_price": "বর্তমান বৈদ্যুতিক মূল্য",
+  "enable_auto_switch": "মূল্যের উপর ভিত্তি করে স্বয়ংক্রিয় সুইচ চালু করুন",
+  "select_automation": "স্বয়ংক্রিয় নির্বাচন করুন",
+  "appliance": "যন্ত্রপাতি",
+  "current_power_source": "বর্তমান শক্তি উত্স",
+  "electric_solar": "বৈদ্যুতিক/সৌর",
+  "solar": "সৌর শক্তি",
+  "electric": "বৈদ্যুতিক",
+
+        "energy_dashboard": "এনার্জি ড্যাশবোর্ড",
+        "real_time_price_monitoring": "রিয়েল-টাইম মূল্য পর্যবেক্ষণ",
+        "estimated_power_saved": "অনুমানিত বিদ্যুৎ সঞ্চয়",
+        "total_solar_production": "মোট সৌর উত্পাদন",
+        "power_consumption": "বিদ্যুৎ খরচ",
+        "current_weather": "বর্তমান আবহাওয়া",
+        "temperature": "তাপমাত্রা",
+        "humidity": "আর্দ্রতা",
+        "precipitation": "বৃষ্টিপাত",
+        "wind_speed": "বাতাসের গতি",
+        "visibility": "দৃশ্যমানতা",
+        "energy_savings_tips": "শক্তি সঞ্চয়ের টিপস",
+        "turn_off_lights": "ব্যবহার না করলে লাইট বন্ধ করুন",
+        "use_energy_efficient_appliances": "শক্তি সাশ্রয়ী যন্ত্রপাতি ব্যবহার করুন",
+        "leverage_natural_lighting": "প্রাকৃতিক আলো ব্যবহার করুন",
+        "average_price": "গড় দাম",
+        "highest_price": "সর্বোচ্চ দাম",
+        "lowest_price": "সর্বনিম্ন দাম",
+        "enable_auto_switch_based_on_price": "মূল্যের উপর ভিত্তি করে স্বয়ংক্রিয় সুইচ সক্রিয় করুন",
+    "choose_language": "ভাষা নির্বাচন করুন"
+     
+    
+  }
+  
